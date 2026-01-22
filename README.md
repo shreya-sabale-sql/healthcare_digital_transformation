@@ -177,7 +177,6 @@ healthcare-digital-transformation/
 │   ├── cover.png
 │   ├── as_is_flow.png
 │   ├── to_be_flow.png
-│   └── emr_dashboard.png
 
 # ⭐ Skills Demonstrated
 
